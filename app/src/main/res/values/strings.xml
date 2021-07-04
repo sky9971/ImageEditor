@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageEditor</string>
+    <string name="pick_image_message">Click the button below to pick an image from your gallery</string>
+    <string name="select">Select</string>
+    <string name="img_des">Image to be edited</string>
+    <string name="info">Info</string>
+    <string name="save">Save</string>
+    <string name="crop">Crop</string>
+    <string name="flip_vertical">Flip Vertical</string>
+    <string name="flip_horizontal">Flip Horizontal</string>
+</resources>
